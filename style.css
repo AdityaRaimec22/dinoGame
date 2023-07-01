@@ -18,16 +18,16 @@ body{
     background-image: url(dino.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
-    width: 1000px;
+    height: 150px;
+    width: 323px;
     position: absolute;
     bottom:0;
     left: 52px;
 }
 
 .obstacle{
-    height: 500px;
-    width: 800px;
+    height: 147px;
+    width: 217px;
     background-image: url(dragon.png);
     background-size: cover;
     position: absolute;
